@@ -27,7 +27,7 @@ pip install numpy pandas pillow opencv-python tifffile
 - The analysis assumes 3 fluorescence channels:
   - **Blue** – Live cells
   - **Green** – iCC scaffold geometry (used for ROI detection)
-  - **Red** – Dead cells
+  - **Red** – Dead cells (or Target signal for penetration study)
 
 ---
 
