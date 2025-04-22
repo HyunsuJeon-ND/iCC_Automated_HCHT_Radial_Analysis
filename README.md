@@ -10,11 +10,8 @@ Make sure you have Python installed, along with the following packages:
 
 - numpy 2.2.5
 - pandas 2.2.3
-- Pillow (PIL)  
 - opencv-python 3.1.5 (cv2)  
 - tifffile (2025.1.10)
-- time  
-- glob  
 
 Install them using pip (example):
 pip install numpy pandas pillow opencv-python tifffile
